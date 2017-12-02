@@ -40,7 +40,7 @@ body {
 }
 
 
-/*
+
 .Card1 {
     position: absolute;
     left: 200px;
@@ -163,12 +163,8 @@ body {
     font-size: 30px;
 }
 
-*/
-
-.fake {
-    position: absolute;
-    top: 100px;
-    left: 350px;
+.airpodLink {
+	margin-left: 100px;
 }
 
 
